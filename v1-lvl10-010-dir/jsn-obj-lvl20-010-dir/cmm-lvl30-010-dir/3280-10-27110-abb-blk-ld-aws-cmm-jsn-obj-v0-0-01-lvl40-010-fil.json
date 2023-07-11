@@ -1,0 +1,730 @@
+[
+  {
+    "aliasNameKEY": "none",
+    "blockNumberKEY": "3280-10",
+    "fqbidKEY": "3280-10-27110-abb-blk-ld-aws",
+    "blockDescriptionKEY": "edit profile",
+    "stackNameKEY": "3280-10-27110-abb-blk-ld-aws-dep-stk-v0-0-01-lvl20-010-fil.py",
+    "msv": {
+      "aliasNameKEY": "none",
+      "resourceNameKEY": "mp-gp-no-us-en-lo-3080-50-msv-ld",
+      "fqridKEY": "3080-50-5515-ccr-msv-ld-aws",
+      "accessTypeKEY": "get-post",
+      "stackNameKEY": "3080-50-5515-ccr-msv-ld-aws-dep-stk-v0-0-01-lvl60-020-fil.py",
+      "deploymentOrderNumber6500KEY": "2222",
+      "deletionProtectionFlag6500KEY": "none",
+      "6500": [
+        {
+          "aliasNameKEY": "none",
+          "fqlidKEY": "3280-10-6500-oll-leg-ld-aws",
+          "stackNameKEY": "3280-10-6500-oll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+        },
+        {
+          "rol": {
+            "aliasNameKEY": "none",
+            "resourceNameKEY": "mp-gp-no-us-en-lo-3080-50-edit-profile-3280-10-rol-ld",
+            "fqridKEY": "3280-10-6510-fcr-rol-ld-aws",
+            "accessTypeKEY": "none",
+            "stackNameKEY": "3280-10-6510-fcr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+            "deploymentOrderNumber6500KEY": "6510",
+            "deletionProtectionFlag6500KEY": "none",
+            "pol": {
+              "aliasNameKEY": "none",
+              "resourceNameKEY": "mp-gp-no-us-en-lo-3080-50-edit-profile-3280-10-pol-ld",
+              "fqridKEY": "3280-10-6505-jcr-pol-ld-aws",
+              "accessTypeKEY": "none",
+              "stackNameKEY": "3280-10-6505-jcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+              "deploymentOrderNumber6500KEY": "6505",
+              "deletionProtectionFlag6500KEY": "none",
+              "api": {
+                "aliasNameKEY": "none",
+                "resourceNameKEY": "edit-profile-3280-10-api-ld",
+                "fqridKEY": "3280-10-6105-mcr-api-ld-aws",
+                "accessTypeKEY": "none",
+                "stackNameKEY": "3280-10-6105-mcr-api-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                "deploymentOrderNumber6100KEY": "6105",
+                "deletionProtectionFlag6100KEY": "none",
+                "deploymentOrderNumber6200KEY": "1111",
+                "deletionProtectionFlag6200KEY": "none",
+                "deploymentOrderNumber6300KEY": "1111",
+                "deletionProtectionFlag6300KEY": "none",
+                "deploymentOrderNumber6400KEY": "1111",
+                "deletionProtectionFlag6400KEY": "none",
+                "deploymentOrderNumber6500KEY": "1111",
+                "deletionProtectionFlag6500KEY": "none",
+                "6100": [
+                  {
+                    "aliasNameKEY": "none",
+                    "fqlidKEY": "3280-10-6100-mll-leg-ld-aws",
+                    "stackNameKEY": "3280-10-6100-mll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                  },
+                  {
+                    "lam": {
+                      "aliasNameKEY": "none",
+                      "resourceNameKEY": "edit-profile-3280-10-lam-ld",
+                      "fqridKEY": "3280-10-5115-pcr-lam-ld-aws",
+                      "accessTypeKEY": "none",
+                      "stackNameKEY": "3280-10-5115-pcr-lam-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                      "deploymentOrderNumber5100KEY": "5115",
+                      "deletionProtectionFlag5100KEY": "none",
+                      "deploymentOrderNumber5200KEY": "1111",
+                      "deletionProtectionFlag5200KEY": "none",
+                      "deploymentOrderNumber6100KEY": "1111",
+                      "deletionProtectionFlag610KEY": "none",
+                      "5100": [
+                        {
+                          "aliasNameKEY": "none",
+                          "fqlidKEY": "3280-10-5100-all-leg-ld-aws",
+                          "stackNameKEY": "3280-10-5100-all-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                        },
+                        {
+                          "rol": {
+                            "aliasNameKEY": "none",
+                            "resourceNameKEY": "edit-profile-3280-10-rol-ld",
+                            "fqridKEY": "3280-10-5110-scr-rol-ld-aws",
+                            "accessTypeKEY": "none",
+                            "stackNameKEY": "3280-10-5110-scr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                            "deploymentOrderNumber5100KEY": "5110",
+                            "deletionProtectionFlag5100KEY": "none",
+                            "pol": {
+                              "aliasNameKEY": "none",
+                              "resourceNameKEY": "edit-profile-3280-10-pol-ld",
+                              "fqridKEY": "3280-10-5105-vcr-pol-ld-aws",
+                              "accessTypeKEY": "none",
+                              "stackNameKEY": "3280-10-5105-vcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                              "deploymentOrderNumber5100KEY": "5105",
+                              "deletionProtectionFlag5100KEY": "none",
+                              "cwh": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "/aws/lambda/edit-profile-3280-10-lam-ld",
+                                "fqridKEY": "3280-10-0005-ycr-cwh-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-0005-ycr-cwh-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber5100KEY": "0005",
+                                "deletionProtectionFlag5100KEY": "yes"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      "5200": [
+                        {
+                          "aliasNameKEY": "none",
+                          "fqlidKEY": "3280-10-5200-bll-leg-ld-aws",
+                          "stackNameKEY": "3280-10-5200-bll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                        },
+                        {
+                          "cog": {
+                            "aliasNameKEY": "none",
+                            "resourceNameKEY": "user-pool-3040-20-cog-ld",
+                            "fqridKEY": "3040-20-1015-ccr-cog-ld-aws",
+                            "accessTypeKEY": "none",
+                            "stackNameKEY": "3040-20-1015-ccr-cog-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                            "deploymentOrderNumber5200KEY": "2222",
+                            "deletionProtectionFlag5200KEY": "none"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "6200": [
+                  {
+                    "aliasNameKEY": "none",
+                    "fqlidKEY": "3280-10-6200-lll-leg-ld-aws",
+                    "stackNameKEY": "3280-10-6200-lll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                  },
+                  {
+                    "3120-10-6300": [
+                      {
+                        "rol": "3120-10-0010-ccr-rol-ld-aws",
+                        "pol": "3120-10-0005-fcr-pol-ld-aws",
+                        "msv": {
+                          "aliasNameKEY": "none",
+                          "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-msv-ld",
+                          "fqridKEY": "3280-10-5330-ccr-msv-ld-aws",
+                          "accessTypeKEY": "get-post",
+                          "stackNameKEY": "3280-10-5330-ccr-msv-ld-aws-dep-stk-v0-0-01-lvl60-020-fil.py",
+                          "deploymentOrderNumber5300KEY": "5330",
+                          "deletionProtectionFlag5300KEY": "none",
+                          "deploymentOrderNumber5400KEY": "1111",
+                          "deletionProtectionFlag5400KEY": "none",
+                          "deploymentOrderNumber5500KEY": "1111",
+                          "deletionProtectionFlag5500KEY": "none",
+                          "deploymentOrderNumber5600KEY": "1111",
+                          "deletionProtectionFlag5600KEY": "none",
+                          "deploymentOrderNumber6200KEY": "1111",
+                          "deletionProtectionFlag6200KEY": "none",
+                          "5300": [
+                            {
+                              "aliasNameKEY": "none",
+                              "fqlidKEY": "3280-10-5300-cll-leg-ld-aws",
+                              "stackNameKEY": "3280-10-5300-cll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                            },
+                            {
+                              "rol": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-user-pool-one-3040-20-rol-ld",
+                                "fqridKEY": "3280-10-5310-pcr-rol-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-5310-pcr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber5300KEY": "5310",
+                                "deletionProtectionFlag5300KEY": "none",
+                                "pol": {
+                                  "aliasNameKEY": "none",
+                                  "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-user-pool-one-3040-20-pol-ld",
+                                  "fqridKEY": "3280-10-5305-scr-pol-ld-aws",
+                                  "accessTypeKEY": "none",
+                                  "stackNameKEY": "3280-10-5305-scr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                  "deploymentOrderNumber5300KEY": "5305",
+                                  "deletionProtectionFlag5300KEY": "none",
+                                  "sec": {
+                                    "aliasNameKEY": "none",
+                                    "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-user-pool-3040-20-sec-ld",
+                                    "fqridKEY": "3280-10-5315-vcr-sec-ld-aws",
+                                    "accessTypeKEY": "none",
+                                    "stackNameKEY": "3280-10-5315-vcr-sec-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                    "deploymentOrderNumber5300KEY": "5315",
+                                    "deletionProtectionFlag5300KEY": "none",
+                                    "rol": {
+                                      "aliasNameKEY": "none",
+                                      "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-user-pool-two-3040-20-rol-ld",
+                                      "fqridKEY": "3280-10-5325-ycr-rol-ld-aws",
+                                      "accessTypeKEY": "none",
+                                      "stackNameKEY": "3280-10-5325-ycr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                      "deploymentOrderNumber5300KEY": "5325",
+                                      "deletionProtectionFlag5300KEY": "none",
+                                      "pol": {
+                                        "aliasNameKEY": "none",
+                                        "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-user-pool-two-3040-20-pol-ld",
+                                        "fqridKEY": "3280-10-5320-cjr-pol-ld-aws",
+                                        "accessTypeKEY": "none",
+                                        "stackNameKEY": "3280-10-5320-cjr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                        "deploymentOrderNumber5300KEY": "5320",
+                                        "deletionProtectionFlag5300KEY": "none",
+                                        "cog": {
+                                          "aliasNameKEY": "none",
+                                          "resourceNameKEY": "user-pool-3040-20-cog-ld",
+                                          "fqridKEY": "3040-20-1015-ccr-cog-ld-aws",
+                                          "accessTypeKEY": "read-send",
+                                          "stackNameKEY": "3040-20-1015-ccr-cog-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                          "deploymentOrderNumber5300KEY": "1111",
+                                          "deletionProtectionFlag5300KEY": "none",
+                                          "3040-20-1000": [
+                                            {
+                                              "rol": "3040-20-1010-fcr-rol-ld-aws",
+                                              "pol": "3040-20-1005-jcr-pol-ld-aws",
+                                              "sns": {
+                                                "aliasNameKEY": "none",
+                                                "resourceNameKEY": "SNS",
+                                                "fqridKEY": "1360-10-2415-ccr-sns-ld-aws",
+                                                "accessTypeKEY": "none",
+                                                "stackNameKEY": "1360-10-2415-ccr-sns-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                                "deploymentOrderNumber5300KEY": "2222",
+                                                "deletionProtectionFlag5300KEY": "no",
+                                                "1360-10-700": [
+                                                  {
+                                                    "pol": "1360-10-710-fcr-pol-ld-aws",
+                                                    "bkt": {
+                                                      "aliasNameKEY": "none",
+                                                      "resourceNameKEY": "sms-log-1360-10-bkt-ld",
+                                                      "fqridKEY": "1360-10-705-ccr-bkt-ld-aws",
+                                                      "accessTypeKEY": "write",
+                                                      "stackNameKEY": "1360-10-705-ccr-bkt-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                                      "deploymentOrderNumber5300KEY": "2222",
+                                                      "deletionProtectionFlag5300KEY": "no"
+                                                    }
+                                                  }
+                                                ],
+                                                "1360-10-5100": [
+                                                  {
+                                                    "rol": "1360-10-5110-fcr-rol-ld-aws",
+                                                    "pol": "1360-10-5105-jcr-pol-ld-aws",
+                                                    "cwh": {
+                                                      "aliasNameKEY": "none",
+                                                      "resourceNameKEY": "sns/eu-west-2/115289452667/DirectPublishToPhoneNumber",
+                                                      "fqridKEY": "1360-10-2215-mcr-cwh-ld-aws",
+                                                      "accessTypeKEY": "write",
+                                                      "stackNameKEY": "1360-10-2215-mcr-cwh-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                                      "deploymentOrderNumber5300KEY": "2222",
+                                                      "deletionProtectionFlag5300KEY": "yes"
+                                                    }
+                                                  }
+                                                ],
+                                                "1360-20-5200": [
+                                                  {
+                                                    "rol": "1360-10-5210-fcr-rol-ld-aws",
+                                                    "pol": "1360-10-5205-jcr-pol-ld-aws",
+                                                    "cwh": {
+                                                      "aliasNameKEY": "none",
+                                                      "resourceNameKEY": "sns/eu-west-2/115289452667/DirectPublishToPhoneNumber/Failure",
+                                                      "fqridKEY": "1360-10-5215-jcr-cwh-ld-aws",
+                                                      "accessTypeKEY": "write",
+                                                      "stackNameKEY": "1360-10-5215-jcr-cwh-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                                      "deploymentOrderNumber5300KEY": "2222",
+                                                      "deletionProtectionFlag5300KEY": "yes"
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          ],
+                          "5400": [
+                            {
+                              "aliasNameKEY": "none",
+                              "fqlidKEY": "3280-10-5400-dll-leg-ld-aws",
+                              "stackNameKEY": "3280-10-5400-dll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                            },
+                            {
+                              "rol": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-wp-user-3040-40-rol-ld",
+                                "fqridKEY": "3280-10-5410-ccr-rol-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-5410-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber5400KEY": "5410",
+                                "deletionProtectionFlag5400KEY": "none",
+                                "pol": {
+                                  "aliasNameKEY": "none",
+                                  "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-wp-user-3040-40-pol-ld",
+                                  "fqridKEY": "3280-10-5405-fcr-pol-ld-aws",
+                                  "accessTypeKEY": "none",
+                                  "stackNameKEY": "3280-10-5405-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                  "deploymentOrderNumber5400KEY": "5405",
+                                  "deletionProtectionFlag5400KEY": "none",
+                                  "sec": {
+                                    "aliasNameKEY": "none",
+                                    "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-wp-user-3040-40-sec-ld",
+                                    "fqridKEY": "3280-10-5415-jcr-sec-ld-aws",
+                                    "accessTypeKEY": "none",
+                                    "stackNameKEY": "3280-10-5415-jcr-sec-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                    "deploymentOrderNumber5400KEY": "5415",
+                                    "deletionProtectionFlag5400KEY": "none",
+                                    "3040-40-3100": [
+                                      {
+                                        "acl": "3040-40-3120-ccr-acl-ld",
+                                        "eni": "3040-40-0005-fcr-eni-ld",
+                                        "seg": "3040-40-3130-jcr-seg-ld",
+                                        "sug": "3040-40-3125-mcr-sug-ld",
+                                        "sub-2a": "3040-40-3105-pcr-sub-ld",
+                                        "sub-2b": "3040-40-3110-scr-sub-ld",
+                                        "sub-2c": "3040-40-3115-vcr-sub-ld",
+                                        "dcl": "3040-40-3135-ycr-dcl-ld",
+                                        "dmy": "3040-40-0010-cf-dmy-ld",
+                                        "dtn": {
+                                          "aliasNameKEY": "none",
+                                          "resourceNameKEY": "wp-user-3040-40-dtn-ld",
+                                          "fqridKEY": "3040-40-3145-jfr-dtn-ld-aws",
+                                          "accessTypeKEY": "read",
+                                          "stackNameKEY": "3040-40-3145-jfr-dtn-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                          "deploymentOrderNumber5400KEY": "1111",
+                                          "deletionProtectionFlag5400KEY": "none"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          ],
+                          "5500": [
+                            {
+                              "aliasNameKEY": "none",
+                              "fqlidKEY": "3280-10-5500-ell-leg-ld-aws",
+                              "stackNameKEY": "3280-10-5500-ell-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                            },
+                            {
+                              "rol": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-wp-usermeta-3040-40-rol-ld",
+                                "fqridKEY": "3280-10-5510-ccr-rol-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-5510-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber5500KEY": "5510",
+                                "deletionProtectionFlag5500KEY": "none",
+                                "pol": {
+                                  "aliasNameKEY": "none",
+                                  "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-wp-usermeta-3040-40-pol-ld",
+                                  "fqridKEY": "3280-10-5505-fcr-pol-ld-aws",
+                                  "accessTypeKEY": "none",
+                                  "stackNameKEY": "3280-10-5505-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                  "deploymentOrderNumber5500KEY": "5505",
+                                  "deletionProtectionFlag5500KEY": "none",
+                                  "sec": {
+                                    "aliasNameKEY": "none",
+                                    "resourceNameKEY": "ua-p-r-no-us-en-lo-3280-10-wp-usermeta-3040-40-sec-ld",
+                                    "fqridKEY": "3280-10-5515-jcr-sec-ld-aws",
+                                    "accessTypeKEY": "none",
+                                    "stackNameKEY": "3280-10-5515-jcr-sec-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                    "deploymentOrderNumber5500KEY": "5515",
+                                    "deletionProtectionFlag5500KEY": "none",
+                                    "3040-40-3200": [
+                                      {
+                                        "acl": "3040-40-3120-ccr-acl-ld",
+                                        "eni": "3040-40-0005-fcr-eni-ld",
+                                        "seg": "3040-40-3130-jcr-seg-ld",
+                                        "sug": "3040-40-3125-mcr-sug-ld",
+                                        "sub-2a": "3040-40-3105-pcr-sub-ld",
+                                        "sub-2b": "3040-40-3110-scr-sub-ld",
+                                        "sub-2c": "3040-40-3115-vcr-sub-ld",
+                                        "dcl": "3040-40-3135-ycr-dcl-ld",
+                                        "dmy": "3040-40-0010-cf-dmy-ld",
+                                        "dtn": {
+                                          "aliasNameKEY": "none",
+                                          "resourceNameKEY": "wp-usermeta-3040-40-dtn-ld",
+                                          "fqridKEY": "3040-40-3205-ccr-dtn-ld-aws",
+                                          "accessTypeKEY": "read",
+                                          "stackNameKEY": "3040-40-3205-ccr-dtn-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                          "deploymentOrderNumber5500KEY": "1111",
+                                          "deletionProtectionFlag5500KEY": "none"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          ],
+                          "5600": [
+                            {
+                              "aliasNameKEY": "none",
+                              "fqlidKEY": "3280-10-5600-fll-leg-ld-aws",
+                              "stackNameKEY": "3280-10-5600-fll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                            },
+                            {
+                              "rol": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-user-registration-image-3040-10-rol-ld",
+                                "fqridKEY": "3280-10-5610-mcr-rol-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-5610-mcr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber5600KEY": "5610",
+                                "deletionProtectionFlag5600KEY": "none",
+                                "pol": {
+                                  "aliasNameKEY": "none",
+                                  "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-user-registration-image-3040-10-pol-ld",
+                                  "fqridKEY": "3280-10-5605-pcr-pol-ld-aws",
+                                  "accessTypeKEY": "none",
+                                  "stackNameKEY": "3280-10-5605-pcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                  "deploymentOrderNumber5600KEY": "5605",
+                                  "deletionProtectionFlag5600KEY": "none",
+                                  "sec": {
+                                    "aliasNameKEY": "none",
+                                    "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-user-registration-image-3040-10-sec-ld",
+                                    "fqridKEY": "3280-10-5615-scr-sec-ld-aws",
+                                    "accessTypeKEY": "none",
+                                    "stackNameKEY": "3280-10-5615-scr-sec-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                    "deploymentOrderNumber5600KEY": "5615",
+                                    "deletionProtectionFlag5600KEY": "none",
+                                    "3040-10-700": [
+                                      {
+                                        "usr": "3040-10-710-ccr-usr-ld",
+                                        "pol": "3040-10-705-fcr-pol-ld-aws",
+                                        "bkt": {
+                                          "aliasNameKEY": "none",
+                                          "resourceNameKEY": "user-registration-image-[mmm]-[yy]-3040-10-bkt-ld",
+                                          "fqridKEY": "3040-10-720-mcr-bkt-ld-aws",
+                                          "accessTypeKEY": "none",
+                                          "stackNameKEY": "3040-10-720-mcr-bkt-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                          "deploymentOrderNumber5600KEY": "1111",
+                                          "deletionProtectionFlag5600KEY": "none"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "6300": [
+                  {
+                    "aliasNameKEY": "none",
+                    "fqlidKEY": "3280-10-6300-mll-leg-ld-aws",
+                    "stackNameKEY": "3280-10-6300-mll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                  },
+                  {
+                    "3120-10-6300": [
+                      {
+                        "rol": "3120-10-0010-ccr-rol-ld-aws",
+                        "pol": "3120-10-0005-fcr-pol-ld-aws",
+                        "msv": {
+                          "aliasNameKEY": "none",
+                          "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-msv-ld",
+                          "fqridKEY": "3280-10-5730-ccr-msv-ld-aws",
+                          "accessTypeKEY": "get-post",
+                          "stackNameKEY": "3280-10-5730-ccr-msv-ld-aws-dep-stk-v0-0-01-lvl60-020-fil.py",
+                          "deploymentOrderNumber5700KEY": "5730",
+                          "deletionProtectionFlag5700KEY": "none",
+                          "deploymentOrderNumber5800KEY": "1111",
+                          "deletionProtectionFlag5800KEY": "none",
+                          "deploymentOrderNumber5900KEY": "1111",
+                          "deletionProtectionFlag5900KEY": "none",
+                          "deploymentOrderNumber6300KEY": "1111",
+                          "deletionProtectionFlag6300KEY": "none",
+                          "5700": [
+                            {
+                              "aliasNameKEY": "none",
+                              "fqlidKEY": "3280-10-5700-gll-leg-ld-aws",
+                              "stackNameKEY": "3280-10-5700-gll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                            },
+                            {
+                              "rol": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-user-pool-one-3040-20-rol-ld",
+                                "fqridKEY": "3280-10-5710-ccr-rol-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-5710-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber5700KEY": "5710",
+                                "deletionProtectionFlag5700KEY": "none",
+                                "pol": {
+                                  "aliasNameKEY": "none",
+                                  "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-user-pool-one-3040-20-pol-ld",
+                                  "fqridKEY": "3280-10-5705-fcr-pol-ld-aws",
+                                  "accessTypeKEY": "none",
+                                  "stackNameKEY": "3280-10-5705-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                  "deploymentOrderNumber5700KEY": "5705",
+                                  "deletionProtectionFlag5700KEY": "none",
+                                  "sec": {
+                                    "aliasNameKEY": "none",
+                                    "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-user-pool-3040-20-sec-ld",
+                                    "fqridKEY": "3280-10-5715-jcr-sec-ld-aws",
+                                    "accessTypeKEY": "none",
+                                    "stackNameKEY": "3280-10-5715-jcr-sec-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                    "deploymentOrderNumber5700KEY": "5715",
+                                    "deletionProtectionFlag5700KEY": "none",
+                                    "rol": {
+                                      "aliasNameKEY": "none",
+                                      "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-user-pool-two-3040-20-rol-ld",
+                                      "fqridKEY": "3280-10-5725-mcr-rol-ld-aws",
+                                      "accessTypeKEY": "none",
+                                      "stackNameKEY": "3280-10-5725-mcr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                      "deploymentOrderNumber5700KEY": "5725",
+                                      "deletionProtectionFlag5700KEY": "none",
+                                      "pol": {
+                                        "aliasNameKEY": "none",
+                                        "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-user-pool-two-3040-20-pol-ld",
+                                        "fqridKEY": "3280-10-5720-pcr-pol-ld-aws",
+                                        "accessTypeKEY": "none",
+                                        "stackNameKEY": "3280-10-5720-pcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                        "deploymentOrderNumber5700KEY": "5720",
+                                        "deletionProtectionFlag5700KEY": "none",
+                                        "cog": {
+                                          "aliasNameKEY": "none",
+                                          "resourceNameKEY": "user-pool-3040-20-cog-ld",
+                                          "fqridKEY": "3040-20-1015-ccr-cog-ld-aws",
+                                          "accessTypeKEY": "write",
+                                          "stackNameKEY": "3040-20-1015-ccr-cog-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                          "deploymentOrderNumber5700KEY": "1111",
+                                          "deletionProtectionFlag5700KEY": "none"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          ],
+                          "5800": [
+                            {
+                              "aliasNameKEY": "none",
+                              "fqlidKEY": "3280-10-5800-hll-leg-ld-aws",
+                              "stackNameKEY": "3280-10-5800-hll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                            },
+                            {
+                              "rol": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-wp-user-3040-40-rol-ld",
+                                "fqridKEY": "3280-10-5810-ccr-rol-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-5810-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber5800KEY": "5810",
+                                "deletionProtectionFlag5800KEY": "none",
+                                "pol": {
+                                  "aliasNameKEY": "none",
+                                  "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-wp-user-3040-40-pol-ld",
+                                  "fqridKEY": "3280-10-5805-fcr-pol-ld-aws",
+                                  "accessTypeKEY": "none",
+                                  "stackNameKEY": "3280-10-5805-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                  "deploymentOrderNumber5800KEY": "5805",
+                                  "deletionProtectionFlag5800KEY": "none",
+                                  "sec": {
+                                    "aliasNameKEY": "none",
+                                    "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-wp-user-3040-40-sec-ld",
+                                    "fqridKEY": "3280-10-5815-jcr-sec-ld-aws",
+                                    "accessTypeKEY": "none",
+                                    "stackNameKEY": "3280-10-5815-jcr-sec-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                    "deploymentOrderNumber5800KEY": "5815",
+                                    "deletionProtectionFlag5800KEY": "none",
+                                    "3040-40-3100": [
+                                      {
+                                        "acl": "3040-40-3120-ccr-acl-ld",
+                                        "eni": "3040-40-0005-fcr-eni-ld",
+                                        "seg": "3040-40-3130-jcr-seg-ld",
+                                        "sug": "3040-40-3125-mcr-sug-ld",
+                                        "sub-2a": "3040-40-3105-pcr-sub-ld",
+                                        "sub-2b": "3040-40-3110-scr-sub-ld",
+                                        "sub-2c": "3040-40-3115-vcr-sub-ld",
+                                        "dcl": "3040-40-3135-ycr-dcl-ld",
+                                        "dmy": "3040-40-0010-cf-dmy-ld",
+                                        "dtn": {
+                                          "aliasNameKEY": "none",
+                                          "resourceNameKEY": "wp-user-3040-40-dtn-ld",
+                                          "fqridKEY": "3040-40-3145-jfr-dtn-ld-aws",
+                                          "accessTypeKEY": "read",
+                                          "stackNameKEY": "3040-40-3145-jfr-dtn-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                          "deploymentOrderNumber5800KEY": "1111",
+                                          "deletionProtectionFlag5800KEY": "none"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          ],
+                          "5900": [
+                            {
+                              "aliasNameKEY": "none",
+                              "fqlidKEY": "3280-10-5900-ill-leg-ld-aws",
+                              "stackNameKEY": "3280-10-5900-ill-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                            },
+                            {
+                              "rol": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-wp-usermeta-3040-40-rol-ld",
+                                "fqridKEY": "3280-10-5910-ccr-rol-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-5910-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber5900KEY": "5910",
+                                "deletionProtectionFlag5900KEY": "none",
+                                "pol": {
+                                  "aliasNameKEY": "none",
+                                  "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-wp-usermeta-3040-40-pol-ld",
+                                  "fqridKEY": "3280-10-5905-fcr-pol-ld-aws",
+                                  "accessTypeKEY": "none",
+                                  "stackNameKEY": "3280-10-5905-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                  "deploymentOrderNumber5900KEY": "5905",
+                                  "deletionProtectionFlag5900KEY": "none",
+                                  "sec": {
+                                    "aliasNameKEY": "none",
+                                    "resourceNameKEY": "ua-p-w-no-us-en-lo-3280-10-wp-usermeta-3040-40-sec-ld",
+                                    "fqridKEY": "3280-10-5915-jcr-sec-ld-aws",
+                                    "accessTypeKEY": "none",
+                                    "stackNameKEY": "3280-10-5915-jcr-sec-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                    "deploymentOrderNumber5900KEY": "5915",
+                                    "deletionProtectionFlag5900KEY": "none",
+                                    "3040-40-3200": [
+                                      {
+                                        "acl": "3040-40-3120-ccr-acl-ld",
+                                        "eni": "3040-40-0005-fcr-eni-ld",
+                                        "seg": "3040-40-3130-jcr-seg-ld",
+                                        "sug": "3040-40-3125-mcr-sug-ld",
+                                        "sub-2a": "3040-40-3105-pcr-sub-ld",
+                                        "sub-2b": "3040-40-3110-scr-sub-ld",
+                                        "sub-2c": "3040-40-3115-vcr-sub-ld",
+                                        "dcl": "3040-40-3135-ycr-dcl-ld",
+                                        "dmy": "3040-40-0010-cf-dmy-ld",
+                                        "dtn": {
+                                          "aliasNameKEY": "none",
+                                          "resourceNameKEY": "wp-usermeta-3040-40-dtn-ld",
+                                          "fqridKEY": "3040-40-3205-ccr-dtn-ld-aws",
+                                          "accessTypeKEY": "read",
+                                          "stackNameKEY": "3040-40-3205-ccr-dtn-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                          "deploymentOrderNumber5900KEY": "1111",
+                                          "deletionProtectionFlag5900KEY": "none"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "6400": [
+                  {
+                    "aliasNameKEY": "none",
+                    "fqlidKEY": "3280-10-6400-nll-leg-ld-aws",
+                    "stackNameKEY": "3280-10-6400-nll-leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                  },
+                  {
+                    "3120-10-6300": [
+                      {
+                        "rol": "3120-10-0010-ccr-rol-ld-aws",
+                        "pol": "3120-10-0005-fcr-pol-ld-aws",
+                        "msv": {
+                          "aliasNameKEY": "none",
+                          "resourceNameKEY": "upel-p-w-no-us-en-lo-3280-10-msv-ld",
+                          "fqridKEY": "3280-10-6015-ccr-msv-ld-aws",
+                          "accessTypeKEY": "get-post",
+                          "stackNameKEY": "3280-10-6015-ccr-msv-ld-aws-dep-stk-v0-0-01-lvl60-020-fil.py",
+                          "deploymentOrderNumber6000KEY": "6015",
+                          "deletionProtectionFlag6000KEY": "none",
+                          "deploymentOrderNumber6400KEY": "1111",
+                          "deletionProtectionFlag6400KEY": "none",
+                          "6000": [
+                            {
+                              "aliasNameKEY": "none",
+                              "fqlidKEY": "3280-10-6000-jll--leg-ld",
+                              "stackNameKEY": "3280-10-6000-jll--leg-ld-aws-dep-stk-v0-0-01-lvl40-010-fil.py"
+                            },
+                            {
+                              "rol": {
+                                "aliasNameKEY": "none",
+                                "resourceNameKEY": "upel-p-w-no-us-en-lo-3280-10-user-event-log-3080-10-rol-ld",
+                                "fqridKEY": "3280-10-6010-ccr-rol-ld-aws",
+                                "accessTypeKEY": "none",
+                                "stackNameKEY": "3280-10-6010-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                "deploymentOrderNumber6000KEY": "6010",
+                                "deletionProtectionFlag6000KEY": "none",
+                                "pol": {
+                                  "aliasNameKEY": "none",
+                                  "resourceNameKEY": "upel-p-w-no-us-en-lo-3280-10-user-event-log-3080-10-pol-ld",
+                                  "fqridKEY": "3280-10-6005-fcr-pol-ld-aws",
+                                  "accessTypeKEY": "none",
+                                  "stackNameKEY": "3280-10-6005-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                  "deploymentOrderNumber6000KEY": "6005",
+                                  "deletionProtectionFlag6000KEY": "none",
+                                  "dtn": {
+                                    "aliasNameKEY": "none",
+                                    "resourceNameKEY": "user-event-log-3080-10-dtn-ld",
+                                    "fqridKEY": "3080-10-105-ccr-dtn-ld-aws",
+                                    "accessTypeKEY": "write",
+                                    "stackNameKEY": "3080-10-105-ccr-dtn-ld-aws-dep-stk-v0-0-01-lvl60-050-fil.py",
+                                    "deploymentOrderNumber6000KEY": "2222",
+                                    "deletionProtectionFlag6000KEY": "none"
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+]
